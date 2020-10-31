@@ -9,6 +9,11 @@ Entry Level (Not Cybersecurity per-se)
 
 IT Support Techinician - Using a ticketing system for internal support requests and installing programs on computers.
 
+IT Helpdesk Tier 1 - Using a ticketing system to provide support, as well as providing technical support over the phone. 
+
+Junior Network Technician - Assisting in adding users to the network, modifying user access, and performing basic network maintenance tasks.
+
+
 
 
 
