@@ -25,7 +25,7 @@ https://www.monster.com/ (Jobs/Internships)
 
 https://www.chegg.com/internships/ (Internships)
 
-*Google job search (etc. cybersecurity jobs <city name>)*
+*Google job search (etc. cybersecurity jobs [city name])*
 
 *Job search on company websites*
 
