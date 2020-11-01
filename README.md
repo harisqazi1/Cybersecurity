@@ -74,6 +74,14 @@ Cybersecurity Architect - Combines hardware and software knowledge with programm
 How Do I....
 ------------
 
+Keep Up With Vulnerabilities:
+
+https://portswigger.net/daily-swig
+
+https://securitynewswire.com/index.php/Home
+
+https://allinfosecnews.com/
+
 Learn About Vulnerabilities:
 
 https://www.hacksplaining.com/lessons
@@ -87,6 +95,16 @@ https://www.tutorialspoint.com/kali_linux/index.htm
 Practice Linux Skills: 
 
 https://overthewire.org/wargames/bandit/
+
+Practice CTF (Capture The Flag) Skills:
+
+https://www.picoctf.org/ (Free)
+
+https://cyberskyline.com/events/ncl (Paid)
+
+https://ctflearn.com/ (Free)
+
+https://www.hackthissite.org/ (Free)
 
 Practice Penetration Testing: 
 
