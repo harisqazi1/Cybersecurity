@@ -30,7 +30,27 @@ Network Engineer - Design, build, implement and maintain the computer networks b
 Entry-Level Job Titles (Cybersecurity)
 --------------------------------------
 
+Information Security Analyst - plan, implement, upgrade, or monitor security measures for the protection of computer networks and information.
 
+Junior Penetration Tester - hired by a client to bypass or defeat security controlshired by a client to bypass or defeat security controls.
+
+Cybersecurity (Security) Technician / Specialist - Protects computer assets by establishing and documenting access; maintaining files.
+
+Cyber Crime Analyst/Investigator - 
+
+Incident Analyst/Responder - 
+
+Mid-Level
+----------
+
+Cybersecurity Analyst - 
+
+Cybersecurity Consultant - 
+
+Penetration & Vulnerability Teter - 
+
+Advanced-Level
+---------------
 
 
 Websites To Search On 
@@ -63,4 +83,12 @@ https://en.wikipedia.org/wiki/Database_administrator
 
 https://www.indeed.com/career-advice/careers/what-does-a-system-administrator-do
 
+https://securityintelligence.com/how-to-land-an-entry-level-cybersecurity-job/
+
 https://www.betterteam.com/security-administrator-job-description
+
+https://i.lensdump.com/i/iHcJHP.png
+
+https://hiring.monster.com/employer-resources/job-description-templates/system-security-technician-job-description/
+
+https://www.cyberseek.org/pathway.html
