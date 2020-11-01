@@ -60,6 +60,18 @@ Cybersecurity Engineer - Help businesses by protecting their computer and networ
 
 Cybersecurity Architect - Combines hardware and software knowledge with programming proficiency, research skills, and policy development.
 
+
+How Do I....
+------------
+
+Practice Linux Skills: 
+https://overthewire.org/wargames/bandit/
+
+Practice Penetration Testing: 
+https://www.hackthebox.eu/ 
+https://tryhackme.com/
+
+
 Websites To Search On 
 -------------------------
 https://www.indeed.com/ (Jobs/Internships)
@@ -82,20 +94,6 @@ https://www.usajobs.gov/ (Jobs / Internship)
 *Google job search (etc. cybersecurity jobs [city name])*
 
 *Job search on company websites*
-
-
-
-
-How Do I....
-------------
-
-Practice Linux Skills: 
-https://overthewire.org/wargames/bandit/
-
-Practice Penetration Testing: 
-https://www.hackthebox.eu/ 
-https://tryhackme.com/
-
 
 Sources
 ---------
