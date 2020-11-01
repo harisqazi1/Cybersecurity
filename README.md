@@ -21,6 +21,16 @@ Network Administrator - manage an organization's computer networks.
 
 IT Technician - provide general desktop and printer support for a company and/or its clients, or they provide network support.
 
+Security Administrator - Installs, administers, and troubleshoots an organization's security solutions.
+
+Network Engineer - Design, build, implement and maintain the computer networks businesses and organizations use.
+
+
+
+Entry-Level Job Titles (Cybersecurity)
+--------------------------------------
+
+
 
 
 Websites To Search On 
@@ -52,3 +62,5 @@ https://www.thebalancecareers.com/network-administrator-525818
 https://en.wikipedia.org/wiki/Database_administrator
 
 https://www.indeed.com/career-advice/careers/what-does-a-system-administrator-do
+
+https://www.betterteam.com/security-administrator-job-description
