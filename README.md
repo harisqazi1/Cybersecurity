@@ -74,9 +74,9 @@ https://www.hackthebox.eu/
 
 https://tryhackme.com/
 
-Certifications
+Certifications (Source: https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 ---------------
-![alt text](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
+![Certifications](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 
 
 Websites To Search On 
