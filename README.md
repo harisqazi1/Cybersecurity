@@ -80,9 +80,11 @@ https://overthewire.org/wargames/bandit/
 
 Practice Penetration Testing: 
 
-https://www.hackthebox.eu/ 
+https://www.hackthebox.eu/ (Free/Paid)
 
-https://tryhackme.com/
+https://tryhackme.com/ (Free/Paid)
+
+https://www.pentesteracademy.com/onlinelabs (Paid)
 
 Watch Videos Related To Hacking:
 
