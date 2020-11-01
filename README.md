@@ -1,9 +1,9 @@
-## Entry-Level Cybersecurity Job Resource
+# Entry-Level Cybersecurity Job Resource
 This is meant to assist people looking for entry level Cybersecurity jobs. Meant to be a Swiss Army Knife for looking for Entry-level jobs (expanding to full cybersecurity in the near future). A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
 
 NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
 
-# Table of contents
+## Table of contents
 * [Foothold Job Titles](#entry-level-cybersecurity-job-resource)
 * [Entry-Level Job Titles](#entry-level-job-titles-cybersecurity)
 * [Mid-Level Job Titles](#mid-level)
