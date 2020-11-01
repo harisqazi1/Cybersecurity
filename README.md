@@ -84,10 +84,23 @@ https://www.hackthebox.eu/
 
 https://tryhackme.com/
 
+Watch Videos Related To Hacking:
 
+https://www.youtube.com/channel/UC-8Ba047kFinfgp3sO53qcA (ITPro.tv)
+
+https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw (The Cyber Mentor)
+
+
+Watch Hackthebox Write-Ups:
+
+https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA (IppSec)
+
+https://www.youtube.com/c/HackerSploit/videos (HAckerSploit)
 
 Certifications 
 ---------------
+*Certifications are a way to get HR's eye. From my understanding, it DOES NOT replace a College/University Degree.*
+
 (Source: https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 ![Certifications](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 
@@ -108,7 +121,7 @@ https://www.simplyhired.com/ (Jobs / Internships)
 
 https://www.careerbuilder.com/ (Job / Internships)
 
-https://www.usajobs.gov/ (Jobs / Internship)
+https://www.usajobs.gov/ (Jobs / Internship) (USA only)
 
 
 *Google job search (etc. cybersecurity jobs [city name])*
