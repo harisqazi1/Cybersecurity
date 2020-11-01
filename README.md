@@ -36,9 +36,11 @@ Junior Penetration Tester - hired by a client to bypass or defeat security contr
 
 Cybersecurity (Security) Technician / Specialist - Protects computer assets by establishing and documenting access; maintaining files.
 
-Cyber Crime Analyst/Investigator - 
+Cyber Crime Analyst/Investigator - Information technology professional whose primary function is to protect organizations from cyber attacks and respond swiftly to restore protection if compromised.
 
 Incident Analyst/Responder - 
+
+IT Auditor - 
 
 Mid-Level
 ----------
@@ -92,3 +94,5 @@ https://i.lensdump.com/i/iHcJHP.png
 https://hiring.monster.com/employer-resources/job-description-templates/system-security-technician-job-description/
 
 https://www.cyberseek.org/pathway.html
+
+https://www.indeed.com/career-advice/career-development/how-to-become-a-cyber-security-analyst
