@@ -65,10 +65,13 @@ How Do I....
 ------------
 
 Practice Linux Skills: 
+
 https://overthewire.org/wargames/bandit/
 
 Practice Penetration Testing: 
+
 https://www.hackthebox.eu/ 
+
 https://tryhackme.com/
 
 
