@@ -38,9 +38,9 @@ Cybersecurity (Security) Technician / Specialist - Protects computer assets by e
 
 Cyber Crime Analyst/Investigator - Information security professionals who use their skills and background knowledge in areas like network administration or network engineering to help counter the activities of cyber criminals such as hackers and developers of malicious software.
 
-Incident Analyst/Responder - 
+Incident Analyst/Responder - Require an understanding of security operations, a solid foundation of technical skills related to information and network security, and strong communication skills.
 
-IT Auditor - 
+IT Auditor - responsible for analyzing and assessing a company’s technological infrastructure to ensure processes and systems run accurately and efficiently, while remaining secure and meeting compliance regulations.
 
 Mid-Level
 ----------
@@ -99,3 +99,7 @@ https://www.cyberseek.org/pathway.html
 https://www.indeed.com/career-advice/career-development/how-to-become-a-cyber-security-analyst
 
 https://www.thebalancecareers.com/cyber-intelligence-analyst-2071296
+
+https://www.infosecinstitute.com/roles/incident-responder/
+
+
