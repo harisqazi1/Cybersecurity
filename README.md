@@ -1,5 +1,5 @@
 # Entry-Level Cybersecurity Job Resource
-This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume. Meant to be a Swiss Army Knife for looking for Entry-level jobs (expanding to full cybersecurity in the near future). A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
+This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume. Meant to be a Swiss Army Knife for looking for Entry-level jobs (expanding to full cybersecurity in the near future). A work in progress, so if you see mistakes, please mention it in the "Issues" section. NOTE: I DO NOT OWN ANYF OF THIS INFORMATION; THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES.
 
 
 Entry Level Job Titles (Not Cybersecurity per-se)
