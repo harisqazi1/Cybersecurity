@@ -72,6 +72,13 @@ https://www.monster.com/ (Jobs/Internships)
 
 https://www.chegg.com/internships/ (Internships)
 
+https://www.simplyhired.com/ (Jobs / Internships)
+
+https://www.careerbuilder.com/ (Job / Internships)
+
+https://www.usajobs.gov/ (Jobs / Internship)
+
+
 *Google job search (etc. cybersecurity jobs [city name])*
 
 *Job search on company websites*
@@ -82,10 +89,12 @@ https://www.chegg.com/internships/ (Internships)
 How Do I....
 ------------
 
-Learn Linux: 
+Practice Linux Skills: 
+https://overthewire.org/wargames/bandit/
 
-Practice Linux Skills: https://overthewire.org/wargames/bandit/
-
+Practice Penetration Testing: 
+https://www.hackthebox.eu/ 
+https://tryhackme.com/
 
 
 Sources
