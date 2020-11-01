@@ -64,6 +64,16 @@ Cybersecurity Architect - Combines hardware and software knowledge with programm
 How Do I....
 ------------
 
+Learn About Vulnerabilities:
+
+https://www.hacksplaining.com/lessons
+
+Learn About Kali Linux (Pen-testing OS):
+
+https://kali.training/courses/kali-linux-revealed/
+
+https://www.tutorialspoint.com/kali_linux/index.htm
+
 Practice Linux Skills: 
 
 https://overthewire.org/wargames/bandit/
@@ -73,6 +83,8 @@ Practice Penetration Testing:
 https://www.hackthebox.eu/ 
 
 https://tryhackme.com/
+
+
 
 Certifications 
 ---------------
