@@ -13,11 +13,21 @@ Junior Network Technician - Assisting in adding users to the network, modifying 
 
 
 
-Websites To Search On
+Websites To Search On 
 -------------------------
-https://www.indeed.com/
+https://www.indeed.com/ (Jobs/Internships)
 
+https://www.ziprecruiter.com/ (Jobs/Internships)
 
+https://www.glassdoor.com/index.htm (Jobs/Internships)
+
+https://www.monster.com/ (Jobs/Internships)
+
+https://www.chegg.com/internships/ (Internships)
+
+*Google job search (etc. cybersecurity jobs <city name>)*
+
+*Job search on company websites*
 
 
 Sources
