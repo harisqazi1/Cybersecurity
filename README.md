@@ -4,7 +4,7 @@ This is meant to assist people looking for entry level Cybersecurity jobs. Meant
 NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
 
 ## Table of contents
-* [Foothold Job Titles](#entry-level-cybersecurity-job-resource)
+* [Foothold Job Titles](#entry-level-job-titles-not-cybersecurity-per-se-but-for-getting-a-foothold-in-the-industry)
 * [Entry-Level Job Titles](#entry-level-job-titles-cybersecurity)
 * [Mid-Level Job Titles](#mid-level)
 * [Advanced-Level Jobs Titles](#advanced-level)
