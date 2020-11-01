@@ -49,12 +49,16 @@ Cybersecurity Analyst - Information technology professional whose primary functi
 
 Cybersecurity Consultant - Responsible for keeping a client’s data suitably protected and free from the risk of cyber attacks and related problems
 
-Penetration & Vulnerability Teter - 
+Penetration & Vulnerability Tester - Highly skilled security specialists that spend their days attempting to breach computer and network security systems.
 
 Advanced-Level
 ---------------
 
+Cybersecurity Manager / Admininstrator - Require an advanced understanding of information security concepts, security operations and information assurance, as well as risk management and project management skills.
 
+Cybersecurity Engineer - Help businesses by protecting their computer and networking systems from potential hackers and cyber-attacks.
+
+Cybersecurity Architect - Combines hardware and software knowledge with programming proficiency, research skills, and policy development.
 
 Websites To Search On 
 -------------------------
@@ -71,6 +75,17 @@ https://www.chegg.com/internships/ (Internships)
 *Google job search (etc. cybersecurity jobs [city name])*
 
 *Job search on company websites*
+
+
+
+
+How Do I....
+------------
+
+Learn Linux: 
+
+Practice Linux Skills: https://overthewire.org/wargames/bandit/
+
 
 
 Sources
@@ -103,3 +118,10 @@ https://www.thebalancecareers.com/cyber-intelligence-analyst-2071296
 https://www.infosecinstitute.com/roles/incident-responder/
 
 https://www.cio.com/article/3346029/it-auditor-role-defined.html
+
+https://www.fieldengineer.com/skills/cyber-security-consultant
+
+https://www.infosecinstitute.com/roles/cybersecurity-manager/
+
+https://www.betterteam.com/cyber-security-engineer-job-description
+
