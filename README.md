@@ -4,7 +4,7 @@ This is meant to assist people looking for entry level Cybersecurity jobs. Meant
 NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
 
 # Table of contents
-* [General info](#https://github.com/harisqazi1/Cybersecurity/blob/main/README.md#entry-level-cybersecurity-job-resource)
+* [General info](#entry-level-cybersecurity-job-resource)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
