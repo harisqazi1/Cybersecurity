@@ -97,7 +97,7 @@ Watch Hackthebox Write-Ups:
 
 https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA (IppSec)
 
-https://www.youtube.com/c/HackerSploit/videos (HAckerSploit)
+https://www.youtube.com/c/HackerSploit/videos (HackerSploit)
 
 Certifications 
 ---------------
