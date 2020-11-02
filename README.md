@@ -82,6 +82,8 @@ https://securitynewswire.com/index.php/Home
 
 https://allinfosecnews.com/
 
+https://hackerone.com/hacktivity
+
 Learn About Vulnerabilities:
 
 https://www.hacksplaining.com/lessons
