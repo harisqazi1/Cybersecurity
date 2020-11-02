@@ -42,7 +42,7 @@ Entry-Level Job Titles (Cybersecurity)
 
 Information Security Analyst - Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information.
 
-Junior Penetration Tester - Hired by a client to bypass or defeat security controlshired by a client to bypass or defeat security controls.
+Junior Penetration Tester - Hired by a client to bypass or defeat security controls.
 
 Cybersecurity (Security) Technician / Specialist - Protects computer assets by establishing and documenting access; maintaining files.
 
@@ -105,6 +105,8 @@ https://cyberskyline.com/events/ncl (Paid)
 https://ctflearn.com/ (Free)
 
 https://www.hackthissite.org/ (Free)
+
+https://ctf.hacker101.com/ctf (Free)
 
 Practice Penetration Testing: 
 
