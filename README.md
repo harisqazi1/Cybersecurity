@@ -90,7 +90,19 @@ Learn About Kali Linux (Pen-testing OS):
 
 https://kali.training/courses/kali-linux-revealed/
 
-https://www.tutorialspoint.com/kali_linux/index.htm
+https://www.tutorialspoint.com/kali_linux/index.html
+
+Learn About Parrot (Pen-testing OS):
+
+https://www.tutorialspoint.com/parrot/index.html
+
+https://docs.parrotlinux.org/
+
+Learn About BlackArch (Hacking OS):
+
+https://uthena.com/courses/blackarch-linux (Paid)
+
+https://blackarch.org/blackarch-guide-en.pdf
 
 Practice Linux Skills: 
 
@@ -119,6 +131,10 @@ Watch Videos Related To Hacking:
 https://www.youtube.com/channel/UC-8Ba047kFinfgp3sO53qcA (ITPro.tv)
 
 https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw (The Cyber Mentor)
+
+https://www.youtube.com/playlist?list=PLRCfGWSPoev68hGDQlGM0DHHhpCOaIu4K (BLACK ARCH LINUX TUTORIAL)
+
+https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w (LiveOverflow)
 
 
 Watch Hackthebox Write-Ups:
