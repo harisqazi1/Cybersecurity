@@ -82,7 +82,7 @@ https://securitynewswire.com/index.php/Home
 
 https://allinfosecnews.com/
 
-https://hackerone.com/hacktivity
+https://hackerone.com/hacktivity (Recent bug-bounties found)
 
 Learn About Vulnerabilities:
 
