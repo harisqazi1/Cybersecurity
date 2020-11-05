@@ -190,13 +190,13 @@ Career Websites
 
 Social Media & Blogs
 -------------------------
-https://twitter.com/swiftonsecurity - A surprisingly good Cyber security Taylor Swift parody account.
 
 https://security.googleblog.com/ - Google's internal security team, makes a lot of their stuff open source.
 
 https://threatpost.com/ - general security blog
 
 https://krebsonsecurity.com/ - Brian Krebs, kind of an OG security blog thats been around forever
+
 
 Sources
 ---------
