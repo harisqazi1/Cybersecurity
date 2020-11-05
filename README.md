@@ -205,18 +205,18 @@ How Do I....
 
 [tutorialspoint - PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
 
-Cheat Sheets
-------------
-
-(Source: https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
-![Nmap & Nessus](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
-
 Certifications 
 ---------------
 *Certifications are a way to get HR's eye. From my understanding, it DOES NOT replace a College/University Degree.*
 
 (Source: https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 ![Certifications](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
+
+Cheat Sheets
+------------
+
+(Source: https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
+![Nmap & Nessus](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
 
 
 Sources
