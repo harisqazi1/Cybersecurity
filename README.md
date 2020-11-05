@@ -11,7 +11,7 @@ NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPIL
 * [Learning Hacking Skills](#how-do-i)
 * [Certifications](#certifications)
 * [Career Websites](#career-websites)
-* [Social Media & Blogs] (#social-media--blogs)
+* [Social Media & Blogs](#social-media--blogs)
 * [Sources for this Document](#sources)
 
 
