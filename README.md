@@ -11,7 +11,6 @@ NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPIL
 * [Learning Hacking Skills](#how-do-i)
 * [Certifications](#certifications)
 * [Career Websites](#career-websites)
-* [Social Media & Blogs](#social-media--blogs)
 * [Sources for this Document](#sources)
 
 
@@ -82,6 +81,12 @@ https://portswigger.net/daily-swig
 https://securitynewswire.com/index.php/Home
 
 https://allinfosecnews.com/
+
+https://security.googleblog.com/ - Google's internal security team, makes a lot of their stuff open source.
+
+https://threatpost.com/ - general security blog
+
+https://krebsonsecurity.com/ - Brian Krebs, kind of an OG security blog thats been around forever
 
 https://hackerone.com/hacktivity (Recent bug-bounties found)
 
@@ -188,15 +193,6 @@ Career Websites
 *Google job search (etc. cybersecurity jobs [city name])*
 
 *Job search on company websites*
-
-Social Media & Blogs
--------------------------
-
-https://security.googleblog.com/ - Google's internal security team, makes a lot of their stuff open source.
-
-https://threatpost.com/ - general security blog
-
-https://krebsonsecurity.com/ - Brian Krebs, kind of an OG security blog thats been around forever
 
 
 Sources
