@@ -77,19 +77,17 @@ How Do I....
 
 **Keep Up With Vulnerabilities:**
 
-https://portswigger.net/daily-swig
+[PortSwigger](https://portswigger.net/daily-swig)
 
-https://securitynewswire.com/index.php/Home
+[SECURITYNEWSWIRE](https://securitynewswire.com/index.php/Home)
 
-https://allinfosecnews.com/
+[ALL INFOSEC NEWS](https://allinfosecnews.com/)
 
-https://security.googleblog.com/ - Google's internal security team, makes a lot of their stuff open source.
+[Threatpost](https://threatpost.com/) - general security blog
 
-https://threatpost.com/ - general security blog
+[KrebsonSecurity](https://krebsonsecurity.com/) - Brian Krebs, kind of an OG security blog thats been around forever
 
-https://krebsonsecurity.com/ - Brian Krebs, kind of an OG security blog thats been around forever
-
-https://hackerone.com/hacktivity (Recent bug-bounties found)
+[Hackerone](https://hackerone.com/hacktivity) - Recent bug-bounties found
 
 **Learn About Vulnerabilities:**
 
