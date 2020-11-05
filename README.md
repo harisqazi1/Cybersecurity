@@ -1,5 +1,5 @@
-# Entry-Level Cybersecurity Job Resource
-This is meant to assist people looking for entry level Cybersecurity jobs. Meant to be a Swiss Army Knife for looking for Entry-level jobs (expanding to full cybersecurity in the near future). A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
+# Cybersecurity Document
+This is meant to assist people looking for entry level Cybersecurity jobs and learn hacking skills. Meant to be a Swiss Army Knife for looking for Entry-level jobs (expanding to full cybersecurity in the near future). A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
 
 NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
 
@@ -8,9 +8,9 @@ NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPIL
 * [Entry-Level Job Titles](#entry-level-job-titles-cybersecurity)
 * [Mid-Level Job Titles](#mid-level)
 * [Advanced-Level Jobs Titles](#advanced-level)
+* [Career Websites](#career-websites)
 * [Learning Hacking Skills](#how-do-i)
 * [Certifications](#certifications)
-* [Career Websites](#career-websites)
 * [Sources for this Document](#sources)
 * [Acknowledgements](#acknowledgements)
 
@@ -73,21 +73,21 @@ Cybersecurity Architect - Combines hardware and software knowledge with programm
 
 Career Websites
 -------------------------
-[Indeed](http://www.indeed.com/) (Jobs/Internships)
+[Indeed](http://www.indeed.com/)
 
-[Ziprecruiter](https://www.ziprecruiter.com/) (Jobs/Internships)
+[Ziprecruiter](https://www.ziprecruiter.com/)
 
-[Glassdoor](https://www.glassdoor.com/index.htm) (Jobs/Internships)
+[Glassdoor](https://www.glassdoor.com/index.htm)
 
-[Monster](https://www.monster.com/) (Jobs/Internships)
+[Monster](https://www.monster.com/)
 
-[Chegg](https://www.chegg.com/internships/) (Internships)
+[Chegg](https://www.chegg.com/internships/)
 
-[SimplyHired](https://www.simplyhired.com/) (Jobs / Internships)
+[SimplyHired](https://www.simplyhired.com/)
 
-[CareerBuilder](https://www.careerbuilder.com/) (Job / Internships)
+[CareerBuilder](https://www.careerbuilder.com/)
 
-[USAJobs](https://www.usajobs.gov/) (Jobs / Internship) (USA only)
+[USAJobs](https://www.usajobs.gov/)
 
 [NSA Jobs](https://apply.intelligencecareers.gov/home)
 
@@ -205,14 +205,18 @@ How Do I....
 
 [tutorialspoint - PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
 
+Cheat Sheets
+------------
+
+(Source: https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
+![Nmap & Nessus](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
+
 Certifications 
 ---------------
 *Certifications are a way to get HR's eye. From my understanding, it DOES NOT replace a College/University Degree.*
 
 (Source: https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 ![Certifications](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
-
-
 
 
 Sources
