@@ -11,8 +11,7 @@ NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPIL
 * [Learning Hacking Skills](#how-do-i)
 * [Certifications](#certifications)
 * [Career Websites](#career-websites)
-* [Social Media for Cybersecurity](#Social-Media)
-* [Sources for this Document](#sources) 
+* [Sources for this Document](#sources)
 
 
 Entry Level Job Titles (Not Cybersecurity per-se, but for getting a foothold in the industry)
@@ -148,6 +147,16 @@ https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA (IppSec)
 
 https://www.youtube.com/c/HackerSploit/videos (HackerSploit)
 
+**Learn MITRE ATT&CK**
+
+[MITRE Website] (https://attack.mitre.org/resources/getting-started/)
+
+[MITRE Website - Training] (https://attack.mitre.org/resources/training/cti/)
+
+[Rapid 7 - MITRE ATT&CK] (https://www.rapid7.com/fundamentals/mitre-attack/)
+
+
+
 Certifications 
 ---------------
 *Certifications are a way to get HR's eye. From my understanding, it DOES NOT replace a College/University Degree.*
@@ -178,16 +187,6 @@ Career Websites
 *Google job search (etc. cybersecurity jobs [city name])*
 
 *Job search on company websites*
-
-Social Media & Blogs
--------------------------
-https://twitter.com/swiftonsecurity - A surprisingly good Cyber security Taylor Swift parody account.
-
-https://security.googleblog.com/ - Google's internal security team, makes a lot of their stuff open source.
-
-https://threatpost.com/ - general security blog
-
-https://krebsonsecurity.com/ - Brian Krebs, kind of an OG security blog thats been around forever
 
 Sources
 ---------
