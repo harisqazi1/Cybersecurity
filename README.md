@@ -172,6 +172,13 @@ How Do I....
 
 [Radare](https://www.radare.org/r/)
 
+**Learn PowerShell**
+
+[Microsoft Documentation - PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7)
+
+[PowerShell Tutorial](https://powershelltutorial.net/home/)
+
+[tutorialspoint - PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
 
 Certifications 
 ---------------
