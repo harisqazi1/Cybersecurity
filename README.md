@@ -91,25 +91,27 @@ How Do I....
 
 **Learn About Vulnerabilities:**
 
-https://www.hacksplaining.com/lessons
+[HACKSPLAINING](https://www.hacksplaining.com/lessons)
 
 **Learn About Kali Linux (Pen-testing OS):**
 
-https://kali.training/courses/kali-linux-revealed/
+[Kali Linux Revealed Course](https://kali.training/courses/kali-linux-revealed/)
 
-https://www.tutorialspoint.com/kali_linux/index.html
+[tutorialspoint - Kali Linux](https://www.tutorialspoint.com/kali_linux/index.html)
 
 **Learn About Parrot (Pen-testing OS):**
 
-https://www.tutorialspoint.com/parrot/index.html
+[tutorialspoint - Parrot](https://www.tutorialspoint.com/parrot/index.html)
 
-https://docs.parrotlinux.org/
+[Parrot Linux Documentation](https://docs.parrotlinux.org/#documentation)
 
 **Learn About BlackArch (Hacking OS):**
 
-https://uthena.com/courses/blackarch-linux (Paid)
+[BlackArch Linux Installation](https://www.blackarch.org/blackarch-install.html)
 
-https://blackarch.org/blackarch-guide-en.pdf
+[The BlackArch Linux Guide](https://blackarch.org/blackarch-guide-en.pdf)
+
+[uthena BlackArch Linux Course](https://uthena.com/courses/blackarch-linux) (Paid)
 
 **Practice Linux Skills:**
 
