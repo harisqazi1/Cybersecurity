@@ -115,27 +115,25 @@ How Do I....
 
 **Practice Linux Skills:**
 
-https://overthewire.org/wargames/bandit/
+[OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)
 
 **Practice CTF (Capture The Flag) Skills:**
 
-https://www.picoctf.org/ (Free)
+[picoCTF](https://www.picoctf.org/) (Free)
 
-https://cyberskyline.com/events/ncl (Paid)
+[Cyber Skyline / National Cyber League](https://cyberskyline.com/events/ncl) (Paid)
 
-https://ctflearn.com/ (Free)
+[CTFlearn](https://ctflearn.com/) (Free)
 
-https://www.hackthissite.org/ (Free)
-
-https://ctf.hacker101.com/ctf (Free)
+[Hacker101](https://ctf.hacker101.com/) (Free)
 
 **Practice Penetration Testing:**
 
-https://www.hackthebox.eu/ (Free/Paid)
+[HACKTHEBOX](https://www.hackthebox.eu/) (Free/Paid)
 
-https://tryhackme.com/ (Free/Paid)
+[TryHackMe](https://tryhackme.com/) (Free/Paid)
 
-https://www.pentesteracademy.com/onlinelabs (Paid)
+[PentesterAcademy](https://www.pentesteracademy.com/onlinelabs) (Paid)
 
 **Watch Videos Related To Hacking:**
 
