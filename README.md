@@ -137,20 +137,20 @@ How Do I....
 
 **Watch Videos Related To Hacking:**
 
-https://www.youtube.com/channel/UC-8Ba047kFinfgp3sO53qcA (ITPro.tv)
+[Youtube - ITProTV](https://www.youtube.com/channel/UC-8Ba047kFinfgp3sO53qcA)
 
-https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw (The Cyber Mentor)
+[Youtube - The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 
-https://www.youtube.com/playlist?list=PLRCfGWSPoev68hGDQlGM0DHHhpCOaIu4K (BLACK ARCH LINUX TUTORIAL)
+[Youtube - BLACK ARCH LINUX TUTORIAL PLAYLIST](https://www.youtube.com/playlist?list=PLRCfGWSPoev68hGDQlGM0DHHhpCOaIu4K) 
 
-https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w (LiveOverflow)
+[Youtube - LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
 
 **Watch Hackthebox Write-Ups:**
 
-https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA (IppSec)
+[Youtube - IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 
-https://www.youtube.com/c/HackerSploit/videos (HackerSploit)
+[Youtube - HackerSploit](https://www.youtube.com/c/HackerSploit/videos) 
 
 **Learn MITRE ATT&CK**
 
