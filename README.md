@@ -74,7 +74,7 @@ Cybersecurity Architect - Combines hardware and software knowledge with programm
 How Do I....
 ------------
 
-Keep Up With Vulnerabilities:
+**Keep Up With Vulnerabilities:**
 
 https://portswigger.net/daily-swig
 
@@ -84,33 +84,33 @@ https://allinfosecnews.com/
 
 https://hackerone.com/hacktivity (Recent bug-bounties found)
 
-Learn About Vulnerabilities:
+**Learn About Vulnerabilities:**
 
 https://www.hacksplaining.com/lessons
 
-Learn About Kali Linux (Pen-testing OS):
+**Learn About Kali Linux (Pen-testing OS):**
 
 https://kali.training/courses/kali-linux-revealed/
 
 https://www.tutorialspoint.com/kali_linux/index.html
 
-Learn About Parrot (Pen-testing OS):
+**Learn About Parrot (Pen-testing OS):**
 
 https://www.tutorialspoint.com/parrot/index.html
 
 https://docs.parrotlinux.org/
 
-Learn About BlackArch (Hacking OS):
+**Learn About BlackArch (Hacking OS):**
 
 https://uthena.com/courses/blackarch-linux (Paid)
 
 https://blackarch.org/blackarch-guide-en.pdf
 
-Practice Linux Skills: 
+**Practice Linux Skills: **
 
 https://overthewire.org/wargames/bandit/
 
-Practice CTF (Capture The Flag) Skills:
+**Practice CTF (Capture The Flag) Skills:**
 
 https://www.picoctf.org/ (Free)
 
@@ -122,7 +122,7 @@ https://www.hackthissite.org/ (Free)
 
 https://ctf.hacker101.com/ctf (Free)
 
-Practice Penetration Testing: 
+**Practice Penetration Testing: **
 
 https://www.hackthebox.eu/ (Free/Paid)
 
@@ -130,7 +130,7 @@ https://tryhackme.com/ (Free/Paid)
 
 https://www.pentesteracademy.com/onlinelabs (Paid)
 
-Watch Videos Related To Hacking:
+**Watch Videos Related To Hacking:**
 
 https://www.youtube.com/channel/UC-8Ba047kFinfgp3sO53qcA (ITPro.tv)
 
@@ -141,7 +141,7 @@ https://www.youtube.com/playlist?list=PLRCfGWSPoev68hGDQlGM0DHHhpCOaIu4K (BLACK 
 https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w (LiveOverflow)
 
 
-Watch Hackthebox Write-Ups:
+**Watch Hackthebox Write-Ups:**
 
 https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA (IppSec)
 
