@@ -156,12 +156,23 @@ https://www.youtube.com/c/HackerSploit/videos (HackerSploit)
 
 **Learn MITRE ATT&CK**
 
-[MITRE Website] (https://attack.mitre.org/resources/getting-started/)
+[MITRE Website](https://attack.mitre.org/resources/getting-started/)
 
-[MITRE Website - Training] (https://attack.mitre.org/resources/training/cti/)
+[MITRE Website - Training](https://attack.mitre.org/resources/training/cti/)
 
-[Rapid 7 - MITRE ATT&CK] (https://www.rapid7.com/fundamentals/mitre-attack/)
+[Rapid 7 - MITRE ATT&CK](https://www.rapid7.com/fundamentals/mitre-attack/)
 
+**Learn Reverse Engineering**
+
+[MALWARE UNICORN](https://malwareunicorn.org/#/workshops)
+
+**Practice Reverse Engineering**
+
+[Binary Ninja](https://binary.ninja/)
+
+[IDA Freeware](https://www.hex-rays.com/products/ida/support/download_freeware/)
+
+[Radare](https://www.radare.org/r/)
 
 
 Certifications 
