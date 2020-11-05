@@ -157,21 +157,21 @@ Certifications
 
 Career Websites
 -------------------------
-https://www.indeed.com/ (Jobs/Internships)
+[Indeed](http://www.indeed.com/) (Jobs/Internships)
 
-https://www.ziprecruiter.com/ (Jobs/Internships)
+[Ziprecruiter](https://www.ziprecruiter.com/) (Jobs/Internships)
 
-https://www.glassdoor.com/index.htm (Jobs/Internships)
+[Glassdoor](https://www.glassdoor.com/index.htm) (Jobs/Internships)
 
-https://www.monster.com/ (Jobs/Internships)
+[Monster](https://www.monster.com/) (Jobs/Internships)
 
-https://www.chegg.com/internships/ (Internships)
+[Chegg](https://www.chegg.com/internships/) (Internships)
 
-https://www.simplyhired.com/ (Jobs / Internships)
+[SimplyHired](https://www.simplyhired.com/) (Jobs / Internships)
 
-https://www.careerbuilder.com/ (Job / Internships)
+[CareerBuilder](https://www.careerbuilder.com/) (Job / Internships)
 
-https://www.usajobs.gov/ (Jobs / Internship) (USA only)
+[USAJobs](https://www.usajobs.gov/) (Jobs / Internship) (USA only)
 
 
 *Google job search (etc. cybersecurity jobs [city name])*
