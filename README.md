@@ -106,7 +106,7 @@ https://uthena.com/courses/blackarch-linux (Paid)
 
 https://blackarch.org/blackarch-guide-en.pdf
 
-**Practice Linux Skills: **
+**Practice Linux Skills:**
 
 https://overthewire.org/wargames/bandit/
 
@@ -122,7 +122,7 @@ https://www.hackthissite.org/ (Free)
 
 https://ctf.hacker101.com/ctf (Free)
 
-**Practice Penetration Testing: **
+**Practice Penetration Testing:**
 
 https://www.hackthebox.eu/ (Free/Paid)
 
