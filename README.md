@@ -71,6 +71,31 @@ Cybersecurity Engineer - Help businesses by protecting their computer and networ
 
 Cybersecurity Architect - Combines hardware and software knowledge with programming proficiency, research skills, and policy development.
 
+Career Websites
+-------------------------
+[Indeed](http://www.indeed.com/) (Jobs/Internships)
+
+[Ziprecruiter](https://www.ziprecruiter.com/) (Jobs/Internships)
+
+[Glassdoor](https://www.glassdoor.com/index.htm) (Jobs/Internships)
+
+[Monster](https://www.monster.com/) (Jobs/Internships)
+
+[Chegg](https://www.chegg.com/internships/) (Internships)
+
+[SimplyHired](https://www.simplyhired.com/) (Jobs / Internships)
+
+[CareerBuilder](https://www.careerbuilder.com/) (Job / Internships)
+
+[USAJobs](https://www.usajobs.gov/) (Jobs / Internship) (USA only)
+
+[NSA Jobs](https://apply.intelligencecareers.gov/home)
+
+[FBI Jobs](https://apply.fbijobs.gov/)
+
+*Google job search (etc. cybersecurity jobs [city name])*
+
+*Job search on company websites*
 
 How Do I....
 ------------
@@ -188,31 +213,6 @@ Certifications
 ![Certifications](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 
 
-Career Websites
--------------------------
-[Indeed](http://www.indeed.com/) (Jobs/Internships)
-
-[Ziprecruiter](https://www.ziprecruiter.com/) (Jobs/Internships)
-
-[Glassdoor](https://www.glassdoor.com/index.htm) (Jobs/Internships)
-
-[Monster](https://www.monster.com/) (Jobs/Internships)
-
-[Chegg](https://www.chegg.com/internships/) (Internships)
-
-[SimplyHired](https://www.simplyhired.com/) (Jobs / Internships)
-
-[CareerBuilder](https://www.careerbuilder.com/) (Job / Internships)
-
-[USAJobs](https://www.usajobs.gov/) (Jobs / Internship) (USA only)
-
-[NSA Jobs](https://apply.intelligencecareers.gov/home)
-
-[FBI Jobs](https://apply.fbijobs.gov/)
-
-*Google job search (etc. cybersecurity jobs [city name])*
-
-*Job search on company websites*
 
 
 Sources
