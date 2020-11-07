@@ -263,6 +263,8 @@ https://www.infosecinstitute.com/roles/cybersecurity-manager/
 
 https://www.betterteam.com/cyber-security-engineer-job-description
 
+https://github.com/rezaduty/cybersecurity-career-path
+
 
 Acknowledgements
 ------------------
