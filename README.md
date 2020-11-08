@@ -67,14 +67,12 @@ Cybersecurity Consultant - Responsible for keeping a client’s data suitably pr
 
 Penetration & Vulnerability Tester - Highly skilled security specialists that spend their days attempting to breach computer and network security systems.
 
+Cybersecurity Architect - Combines hardware and software knowledge with programming proficiency, research skills, and policy development.
+
 Advanced-Level
 ---------------
 
 Cybersecurity Manager / Admininstrator - Require an advanced understanding of information security concepts, security operations and information assurance, as well as risk management and project management skills.
-
-Cybersecurity Engineer - Help businesses by protecting their computer and networking systems from potential hackers and cyber-attacks.
-
-Cybersecurity Architect - Combines hardware and software knowledge with programming proficiency, research skills, and policy development.
 
 Reverse Engineer(RE)/Malware Analyst: decompiles software and uses this information to determine the function or security flaws of target software. Often participates as a member of an Incident Response Team or sometimes even a red team. Probably has a background in OS or embedded/systems development, and in-depth knowledge of assembly code for the target processor architecture
 
