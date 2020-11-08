@@ -206,6 +206,57 @@ How Do I....
 
 [tutorialspoint - PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
 
+Subreddits
+----------------
+
+[r/netsec](https://www.reddit.com/r/netsec/)
+
+[r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
+
+[r/hacking](https://www.reddit.com/r/hacking/)
+
+Blogs
+------------
+[BleepingComputer](https://www.bleepingcomputer.com/)
+
+[Hacking](https://www.theguardian.com/technology/hacking)
+
+[Dark Reading](https://www.darkreading.com)
+
+[Cyberscoop](https://www.cyberscoop.com)
+
+[The Hacker News](https://thehackernews.com/)
+
+[SANS Internet Storm Center, InfoCON: green](https://isc.sans.edu)
+
+[binary foray](https://binaryforay.blogspot.com/)
+
+[Troy Hunt's Blog](https://www.troyhunt.com/)
+
+[Hexacorn Ltd](http://www.hexacorn.com/blog)
+
+[Cyber Wardog Lab](https://cyberwardog.blogspot.com/)
+
+[Project Zero](https://googleprojectzero.blogspot.com/)
+
+[Another Forensics Blog](http://az4n6.blogspot.com/)
+
+[Schneier on Security](https://www.schneier.com/blog/)
+
+[Windows Incident Response](http://windowsir.blogspot.com/)
+
+[DFIR and Threat Hunting](http://findingbad.blogspot.com/)
+
+[ToolsWatch.org – The Hackers Arsenal Tools Portal](http://www.toolswatch.org)
+
+[Krebs on Security](https://krebsonsecurity.com)
+
+[Megabeets](https://www.megabeets.net)
+
+[Didier Stevens](https://blog.didierstevens.com)
+
+[This Week In 4n6](https://thisweekin4n6.com)
+
 Certifications 
 ---------------
 *Certifications are a way to get HR's eye. From my understanding, it DOES NOT replace a College/University Degree.*
