@@ -259,6 +259,39 @@ Blogs
 
 [This Week In 4n6](https://thisweekin4n6.com)
 
+Podcasts
+--------
+
+[The CyberWire Daily](https://podcasts.apple.com/us/podcast/the-cyberwire-daily/id1071831261)
+
+[SANS Internet Stormcenter Daily Network/Cyber Security and Information Security Stormcast](https://podcasts.apple.com/podcast/id304863991)
+
+[Down the Security Rabbithole Podcast](https://podcasts.apple.com/us/podcast/down-the-security-rabbithole-podcast/id466659176)
+
+[Recorded Future - Inside Security Intelligence](https://podcasts.apple.com/us/podcast/recorded-future-inside-security-intelligence/id1225077306)
+
+[Defensive Security Podcast](https://podcasts.apple.com/us/podcast/defensive-security-podcast-malware-hacking-cyber-security/id585914973)
+
+[Brakeing Down Security](https://www.brakeingsecurity.com/)
+
+[Malicious Life](https://malicious.life/)
+
+[Darknet Diaries](https://darknetdiaries.com/)
+
+[Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans)
+
+[Caveat - Cyber Law and Policy](https://thecyberwire.com/podcasts/caveat)
+
+[SANS Blueprint](https://www.sans.org/blueprint-podcast)
+
+[Grumpy Old Geeks](https://gog.show/)
+
+[Detections](https://www.detections.org/)
+
+[Industrial Security Podcast](https://waterfall-security.com/scada-security/podcasts-on-ics-cybersecurity/)
+
+[Beers with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
+
 Certifications 
 ---------------
 *Certifications are a way to get HR's eye. From my understanding, it DOES NOT replace a College/University Degree.*
