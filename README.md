@@ -1,7 +1,7 @@
 # Cybersecurity Document v2 (In-Progress) - 11/4/2020
 This is meant to assist people looking for entry level Cybersecurity jobs and learn hacking skills. Meant to be a Swiss Army Knife for looking for Entry-level jobs (expanding to full cybersecurity in the near future). A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
 
-NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
+NOTE: I DO NOT OWN ANY OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
 
 ## Table of contents
 * [Foothold Job Titles](#entry-level-job-titles-not-cybersecurity-per-se-but-for-getting-a-foothold-in-the-industry)
@@ -19,7 +19,7 @@ NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPIL
 Entry Level Job Titles (Not Cybersecurity per-se, but for getting a foothold in the industry)
 ---------------
 
-IT Support Techinician - Using a ticketing system for internal support requests and installing programs on computers.
+IT Support Technician - Using a ticketing system for internal support requests and installing programs on computers.
 
 IT Helpdesk Tier 1 - Using a ticketing system to provide support, as well as providing technical support over the phone. 
 
