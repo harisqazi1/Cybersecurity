@@ -1,7 +1,8 @@
 # Cybersecurity Document
-Meant to be a Swiss Army Knife for for entry level Cybersecurity jobs and learn hacking skills. A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
+This document is meant to be a Swiss Army Knife for entry level Cybersecurity jobs and to learn hacking skills. A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
 
-NOTE: I DO NOT OWN ANY OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
+NOTE: I DO NOT OWN ANY OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM. 
+DISCLAIMER: The information below is for eduational purposes ONLY. You are responsible for your own actions. (Don't hack your friend for not hanging out with you!)
 
 ## Table of contents
 * [Foothold Job Titles](#entry-level-job-titles-not-cybersecurity-per-se-but-for-getting-a-foothold-in-the-industry)
