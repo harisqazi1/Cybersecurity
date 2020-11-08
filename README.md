@@ -37,8 +37,6 @@ Security Administrator - Installs, administers, and troubleshoots an organizatio
 
 Network Engineer - Design, build, implement and maintain the computer networks businesses and organizations use.
 
-
-
 Entry-Level Job Titles (Cybersecurity)
 --------------------------------------
 
@@ -100,20 +98,6 @@ Career Websites
 
 How Do I....
 ------------
-
-**Keep Up With Vulnerabilities:**
-
-[PortSwigger](https://portswigger.net/daily-swig)
-
-[SECURITYNEWSWIRE](https://securitynewswire.com/index.php/Home)
-
-[ALL INFOSEC NEWS](https://allinfosecnews.com/)
-
-[Threatpost](https://threatpost.com/) - general security blog
-
-[KrebsonSecurity](https://krebsonsecurity.com/) - Brian Krebs, kind of an OG security blog thats been around forever
-
-[Hackerone](https://hackerone.com/hacktivity) - Recent bug-bounties found
 
 **Learn About Vulnerabilities:**
 
@@ -217,6 +201,15 @@ Subreddits
 
 Blogs
 ------------
+
+[PortSwigger](https://portswigger.net/daily-swig)
+
+[SECURITYNEWSWIRE](https://securitynewswire.com/index.php/Home)
+
+[ALL INFOSEC NEWS](https://allinfosecnews.com/)
+
+[Threatpost](https://threatpost.com/)
+
 [BleepingComputer](https://www.bleepingcomputer.com/)
 
 [Hacking](https://www.theguardian.com/technology/hacking)
