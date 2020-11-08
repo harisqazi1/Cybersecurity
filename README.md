@@ -1,5 +1,5 @@
 # Cybersecurity Document
-Meant to be a Swiss Army Knife for for entry level Cybersecurity jobs and learn hacking skills. Meant to be a Swiss Army Knife for looking for Entry-level jobs. A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
+Meant to be a Swiss Army Knife for for entry level Cybersecurity jobs and learn hacking skills. A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
 
 NOTE: I DO NOT OWN ANY OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
 
