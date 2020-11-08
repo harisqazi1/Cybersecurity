@@ -225,6 +225,8 @@ Cheat Sheets
 **Hacking Tools** (Source https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-0.png)
 ![Hacking Tools](https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-0.png)
 
+**Hacking Tools P.2** (Source https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-1.png)
+![Hacking Tools p.2](https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-1.png)
 
 Sources
 ---------
