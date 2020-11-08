@@ -1,4 +1,4 @@
-# Cybersecurity Document v2 (In-Progress) - 11/4/2020
+# Cybersecurity Document v2
 This is meant to assist people looking for entry level Cybersecurity jobs and learn hacking skills. Meant to be a Swiss Army Knife for looking for Entry-level jobs (expanding to full cybersecurity in the near future). A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
 
 NOTE: I DO NOT OWN ANY OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
@@ -10,6 +10,9 @@ NOTE: I DO NOT OWN ANY OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATI
 * [Advanced-Level Jobs Titles](#advanced-level)
 * [Career Websites](#career-websites)
 * [Learning Hacking Skills](#how-do-i)
+* [Subreddits](#subreddits)
+* [Blogs](#blogs)
+* [Podcasts](#podcasts)
 * [Certifications](#certifications)
 * [Cheat Sheets](#cheat-sheets)
 * [Sources for this Document](#sources)
