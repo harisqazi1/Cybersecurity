@@ -55,6 +55,12 @@ IT Auditor - Responsible for analyzing and assessing a company’s technological
 Mid-Level
 ----------
 
+Cybersecurity Engineer (systems): ensures memory is handled safely, ensures interfaces are implemented securely, etc
+
+Cybersecurity Engineer (Web):  ensures web apps utilize frameworks or architecture paradigms that are resistant to CSRF/XSS/SQL injection attacks (using tokens, MVC frameworks, input validation, etc.), ensures imported libs are trustworthy, etc.
+
+DevSecOps Engineer: largely operates in the IT security space, automates security tasks and functions in a security orchestration position
+
 Cybersecurity Analyst - Information technology professional whose primary function is to protect organizations from cyber attacks and respond swiftly to restore protection if compromised.
 
 Cybersecurity Consultant - Responsible for keeping a client’s data suitably protected and free from the risk of cyber attacks and related problems
@@ -69,6 +75,11 @@ Cybersecurity Manager / Admininstrator - Require an advanced understanding of in
 Cybersecurity Engineer - Help businesses by protecting their computer and networking systems from potential hackers and cyber-attacks.
 
 Cybersecurity Architect - Combines hardware and software knowledge with programming proficiency, research skills, and policy development.
+
+Reverse Engineer(RE)/Malware Analyst: decompiles software and uses this information to determine the function or security flaws of target software. Often participates as a member of an Incident Response Team or sometimes even a red team. Probably has a background in OS or embedded/systems development, and in-depth knowledge of assembly code for the target processor architecture
+
+Penetration Tester/Red Team Developer (SWE): May participate on a red team, building utilities and chaining tools that are configured for a specific target. Builds out software for C2 infrastructure. (example, chains a browser exploit, image parser exploit, and OS exploit, then executes code that maintains persistence and elevates privileges)
+
 
 Career Websites
 -------------------------
