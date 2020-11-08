@@ -301,22 +301,22 @@ Certifications
 ---------------
 *Certifications are a way to get HR's eye. From my understanding, it DOES NOT replace a College/University Degree.*
 
-(Source: https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
+[Source:](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 ![Certifications](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 
 Cheat Sheets
 ------------
 
-**Nmap and Nessus** (Source: https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
+**Nmap and Nessus** [Source:](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
 ![Nmap & Nessus](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Nessus-Cheat-Sheet.jpg)
 
-**Wireshark** (Source: https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg)
+**Wireshark** [Source:](https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg)
 ![Wireshark](https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg)
 
-**Hacking Tools** (Source https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-0.png)
+**Hacking Tools** [Source](https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-0.png)
 ![Hacking Tools](https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-0.png)
 
-**Hacking Tools P.2** (Source https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-1.png)
+**Hacking Tools P.2** [Source](https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-1.png)
 ![Hacking Tools p.2](https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0-1.png)
 
 Sources
