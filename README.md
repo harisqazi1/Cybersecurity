@@ -1,3 +1,4 @@
+[![GitHub stars](https://img.shields.io/github/stars/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/stargazers) [![GitHub forks](https://img.shields.io/github/forks/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/network) [![GitHub license](https://img.shields.io/github/license/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/blob/main/LICENSE)
 # Cybersecurity Document
 This document is meant to be a Swiss Army Knife for entry level Cybersecurity jobs and to learn hacking skills. A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
 
