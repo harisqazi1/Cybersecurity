@@ -1,4 +1,9 @@
+<p align="center">
+  
 [![GitHub stars](https://img.shields.io/github/stars/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/stargazers) [![GitHub forks](https://img.shields.io/github/forks/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/network) [![GitHub license](https://img.shields.io/github/license/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/blob/main/LICENSE)
+
+</p>
+
 # Cybersecurity Document
 This document is meant to be a Swiss Army Knife for entry level Cybersecurity jobs and to learn hacking skills. A work in progress, so if you see mistakes, please mention it in the "Issues" section. 
 
@@ -323,39 +328,39 @@ Cheat Sheets
 Sources
 ---------
 
-https://startacybercareer.com/best-entry-level-cyber-security-jobs/
+[best entry level cyber security jobs](https://startacybercareer.com/best-entry-level-cyber-security-jobs/)
 
-https://www.indeed.com/career-advice/finding-a-job/what-is-an-it-technician
+[what is an it technician](https://www.indeed.com/career-advice/finding-a-job/what-is-an-it-technician)
 
-https://www.thebalancecareers.com/network-administrator-525818
+[network administrator-525818](https://www.thebalancecareers.com/network-administrator-525818)
 
-https://en.wikipedia.org/wiki/Database_administrator
+[Database_administrator](https://en.wikipedia.org/wiki/Database_administrator)
 
-https://www.indeed.com/career-advice/careers/what-does-a-system-administrator-do
+[what does a system administrator do](https://www.indeed.com/career-advice/careers/what-does-a-system-administrator-do)
 
-https://securityintelligence.com/how-to-land-an-entry-level-cybersecurity-job/
+[how to land an entry level cybersecurity job](https://securityintelligence.com/how-to-land-an-entry-level-cybersecurity-job/)
 
-https://www.betterteam.com/security-administrator-job-description
+[security-administrator-job-description](https://www.betterteam.com/security-administrator-job-description)
 
-https://i.lensdump.com/i/iHcJHP.png
+[iHcJHP.png](https://i.lensdump.com/i/iHcJHP.png)
 
-https://hiring.monster.com/employer-resources/job-description-templates/system-security-technician-job-description/
+[system security technician job description](https://hiring.monster.com/employer-resources/job-description-templates/system-security-technician-job-description/)
 
-https://www.cyberseek.org/pathway.html
+[pathway](https://www.cyberseek.org/pathway.html)
 
-https://www.indeed.com/career-advice/career-development/how-to-become-a-cyber-security-analyst
+[how to become a cyber security analyst](https://www.indeed.com/career-advice/career-development/how-to-become-a-cyber-security-analyst)
 
-https://www.thebalancecareers.com/cyber-intelligence-analyst-2071296
+[cyber intelligence analyst-2071296](https://www.thebalancecareers.com/cyber-intelligence-analyst-2071296)
 
-https://www.infosecinstitute.com/roles/incident-responder/
+[incident responder](https://www.infosecinstitute.com/roles/incident-responder/)
 
-https://www.cio.com/article/3346029/it-auditor-role-defined.html
+[it auditor role defined](https://www.cio.com/article/3346029/it-auditor-role-defined.html)
 
-https://www.fieldengineer.com/skills/cyber-security-consultant
+[cyber security consultant](https://www.fieldengineer.com/skills/cyber-security-consultant)
 
-https://www.infosecinstitute.com/roles/cybersecurity-manager/
+[cybersecurity manager](https://www.infosecinstitute.com/roles/cybersecurity-manager/)
 
-https://www.betterteam.com/cyber-security-engineer-job-description
+[cyber security engineer job description](https://www.betterteam.com/cyber-security-engineer-job-description)
 
 
 Acknowledgements
