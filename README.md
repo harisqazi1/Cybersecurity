@@ -210,6 +210,14 @@ How Do I....
 
 [tutorialspoint - PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
 
+**Learn Shell-Script**
+
+[Shell Scripting Tutorial by Steve Parker](https://www.shellscript.sh/)
+
+[Shell Scripting Tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+
+[Introduction to shell scripts](https://openclassrooms.com/en/courses/43538-reprenez-le-controle-a-laide-de-linux/42867-introduction-aux-scripts-shell)
+
 Subreddits
 ----------------
 
