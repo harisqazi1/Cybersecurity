@@ -22,6 +22,7 @@ DISCLAIMER: The information below is for eduational purposes ONLY. You are respo
 * [Blogs](#blogs)
 * [Podcasts](#podcasts)
 * [Certifications](#certifications)
+* [OWASP](#OWASP)
 * [Cheat Sheets](#cheat-sheets)
 * [Sources for this Document](#sources)
 * [Acknowledgements](#acknowledgements)
@@ -210,6 +211,14 @@ How Do I....
 
 [tutorialspoint - PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
 
+**Learn Shell-Script**
+
+[Shell Scripting Tutorial by Steve Parker](https://www.shellscript.sh/)
+
+[Shell Scripting Tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+
+[Introduction to shell scripts](https://openclassrooms.com/en/courses/43538-reprenez-le-controle-a-laide-de-linux/42867-introduction-aux-scripts-shell)
+
 Subreddits
 ----------------
 
@@ -309,6 +318,22 @@ Certifications
 
 (Source: https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
 ![Certifications](https://www.pauljerimy.com/OC/Security%20Certification%20Progression%20Chart%20v7.0.png)
+
+OWASP 
+---------------
+The OWASP® Foundation works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences.
+- <b>OWASP Web Security Testing Guide :</b>
+The Web Security Testing Guide (WSTG) Project produces the premier cybersecurity testing resource for web application developers and security professionals.
+The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.
+
+[wstg-v4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
+
+- <b>OWASP Mobile Security Testing Guide</b>
+We are writing a security standard for mobile apps and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
+
+[MSTG-EN](https://github.com/OWASP/owasp-mstg/releases/download/1.1.3-excel/MSTG-EN.pdf)
+
+[OWASP_MASVS-v1.2-en](https://github.com/OWASP/owasp-masvs/releases/download/v1.2/OWASP_MASVS-v1.2-en.pdf)
 
 Cheat Sheets
 ------------
