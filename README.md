@@ -335,6 +335,13 @@ We are writing a security standard for mobile apps and a comprehensive testing g
 
 [OWASP_MASVS-v1.2-en](https://github.com/OWASP/owasp-masvs/releases/download/v1.2/OWASP_MASVS-v1.2-en.pdf)
 
+- <b>OWASP Application Security Verification Standard</b>
+The primary aim of the OWASP Application Security Verification Standard (ASVS) Project is to provide an open application security standard for web apps and web services of all types.
+
+The standard provides a basis for designing, building, and testing technical application security controls, including architectural concerns, secure development lifecycle, threat modelling, agile security including continuous integration / deployment, serverless, and configuration concerns.
+
+[OWASP.Application.Security.Verification.Standard.4.0.2](https://github.com/OWASP/ASVS/releases/download/v4.0.2_release/OWASP.Application.Security.Verification.Standard.4.0.2-en.pdf)
+
 Cheat Sheets
 ------------
 
