@@ -1,7 +1,10 @@
 <p align="center">
-  
-[![GitHub stars](https://img.shields.io/github/stars/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/stargazers) [![GitHub forks](https://img.shields.io/github/forks/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/network) [![GitHub license](https://img.shields.io/github/license/harisqazi1/Cybersecurity)](https://github.com/harisqazi1/Cybersecurity/blob/main/LICENSE)
-
+<img src="https://user-images.githubusercontent.com/52716203/108920687-6385f600-7635-11eb-8168-2ded38cc0f80.png">
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/harisqazi1/Cybersecurity">
+  <img src="https://img.shields.io/github/forks/harisqazi1/Cybersecurity">
+  <img src="https://img.shields.io/github/license/harisqazi1/Cybersecurity">
 </p>
 
 # Cybersecurity Document
