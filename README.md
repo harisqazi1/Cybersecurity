@@ -279,6 +279,8 @@ Blogs
 
 [This Week In 4n6](https://thisweekin4n6.com)
 
+[Scaler Topics](https://www.scaler.com/topics/what-is-cyber-security/)
+
 Podcasts
 --------
 
